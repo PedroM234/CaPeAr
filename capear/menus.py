@@ -17,7 +17,7 @@ menu_principal = """\
 
 print(menu_principal)
 
-while prompt != 5:
+while prompt != "5":
     print("Digite uma opção dentre as 5.")
     time.sleep(1.5)
     print(menu_principal)
