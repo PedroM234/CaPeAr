@@ -1,4 +1,6 @@
-menu_principal = """""\
+import time 
+prompt = input("Qual cena você deseja ver? \n")
+menu_principal = """\
     =======================================================
     animação de Pedro Maciel, Arthur David e Caio Damasceno
     =======================================================
@@ -12,3 +14,11 @@ menu_principal = """""\
     5. sair
 
     """
+
+print(menu_principal)
+
+while prompt != 5:
+    print("Digite uma opção dentre as 5.")
+    time.sleep(1.5)
+    print(menu_principal)
+    
