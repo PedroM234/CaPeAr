@@ -1,4 +1,4 @@
-<h1>CaPeAr</h1>
+<h1>animafinal - CaPeAr</h1>
 <h2>Projeto animação Turtle, Introdução à programação</h2>
 
 <p>Membros: Caio Damasceno, Pedro Maciel e Arthur David<p>
